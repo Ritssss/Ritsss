@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2004…(yes, that’s my birth year 😄)  <br>📚 'm currently learning: Advanced Django, REST APIs, Java backend development  <br>🌱Future Learning: Machine Learning, AI, Data Analysis, and advanced backend optimizations  <br>🎯 Goals: Build scalable backend systems, contribute to open-source projects, and become a good  developer eventually</p>
+<p align="left">✨ Creating bugs since 2004…(yes, that’s my birth year 😄)  <br>📚 'm currently learning: Advanced Django, REST APIs, backend development  <br>🌱Future Learning: Machine Learning, AI, Data Analysis, and advanced backend optimizations  <br>🎯 Goals: Build scalable backend systems, contribute to open-source projects, and become a good  developer eventually</p>
 
 ###
 
