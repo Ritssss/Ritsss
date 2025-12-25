@@ -10,7 +10,6 @@ Currently building my skills in **testing concepts, test case design, bug report
 ## 🔍 About Me  
 - 🎯 Aspiring **QA / Software Tester**
 - 🐞 Interested in finding bugs before users do  
-- 📚 Learning **Manual Testing & Automation Testing**
 - 🚀 Doing **100 Days of QA Learning Challenge**
 - 🌱 Currently exploring **Selenium with Python**
 - 💡 Believe in *“Quality is not an act, it’s a habit”*
