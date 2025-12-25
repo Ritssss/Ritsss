@@ -1,42 +1,67 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hi, I'm Ritika Shrestha  
 
-###
+## 🧪 Software Quality Assurance (QA) Enthusiast  
 
-<p align="left"># Hi, I'm Ritika Shrestha 👋<br><br>Welcome to my GitHub profile! I am a **Computer Science student** and an aspiring **Backend developer** who loves building robust, scalable web applications and APIs using Python, Java, and Django. I enjoy turning ideas into real-world applications and exploring backend technologies.</p>
+I’m a passionate **Quality Assurance learner** focused on ensuring software quality through **manual and automation testing**.  
+Currently building my skills in **testing concepts, test case design, bug reporting, and automation using Selenium with Python**.
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🔍 About Me  
+- 🎯 Aspiring **QA / Software Tester**
+- 🐞 Interested in finding bugs before users do  
+- 📚 Learning **Manual Testing & Automation Testing**
+- 🚀 Doing **100 Days of QA Learning Challenge**
+- 🌱 Currently exploring **Selenium with Python**
+- 💡 Believe in *“Quality is not an act, it’s a habit”*
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2004…(yes, that’s my birth year 😄)  <br>📚 'm currently learning: Advanced Django, REST APIs, backend development  <br>🌱Future Learning: Machine Learning, AI, Data Analysis, and advanced backend optimizations  <br>🎯 Goals: Build scalable backend systems, contribute to open-source projects, and become a good  developer eventually</p>
+## 🛠️ Skills & Tools  
 
-###
+### 🔹 Testing Skills  
+- Manual Testing  
+- Test Case Writing  
+- Test Scenarios  
+- Bug Reporting  
+- Test Logs  
+- Smoke, Regression & Sanity Testing  
+- Black Box Testing  
+- SDLC & STLC  
 
-<h2 align="left">I code with</h2>
+### 🔹 Automation  
+- Selenium (Python)  
+- Basic Automation Framework Concepts  
 
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
+### 🔹 Programming & Tech  
+- Python 
+- HTML & CSS
+- Django
+- SQL
+- Git & GitHub  
 
-###
+### 🔹 Tools  
+- Jira  
+- Postman (Basic)  
+
+---
+
+## 📂 Projects  
+🔹 **Manual Testing Projects**  
+- Test cases & bug reports for sample web applications  
+
+🔹 **Automation Practice**  
+- Selenium scripts for login, form validation, and UI testing
+  
+---
+
+## 🌐 Connect With Me  
+- 💼 LinkedIn: https://www.linkedin.com/in/ritika-shrestha-2004r/
+- 📧 Email: srits2004@gmail.com
+
+---
+
+⭐ **Fun Fact:** A good QA doesn’t break software — they *protect users from broken software* 😉  
+
+✨ Thanks for visiting my profile!
+
