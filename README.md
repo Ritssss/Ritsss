@@ -40,7 +40,6 @@ Currently building my skills in **testing concepts, test case design, bug report
 - Git & GitHub  
 
 ### 🔹 Tools  
-- Jira  
 - Postman (Basic)  
 
 ---
